@@ -4,10 +4,10 @@ M.colors = {
   -- Backgrounds — Charcoal Slate
   bg         = "#161616",
   bg1        = "#1c1c1e",
-  bg2        = "#222226",
-  bg3        = "#28282e",
-  bg4        = "#2e2e38",
-  bg5        = "#34343f",
+  bg2        = "#222220",
+  bg3        = "#28281e",
+  bg4        = "#2e2e22",
+  bg5        = "#34342a",
 
   -- Foregrounds
   fg         = "#ddd0c0",

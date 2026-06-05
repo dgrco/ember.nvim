@@ -18,7 +18,7 @@ M.colors = {
 
   -- Syntax — Ember palette
   keyword    = "#c4605a",  -- crimson red — keywords, control flow
-  fn_        = "#c8aa80",  -- sandstone — functions, methods
+  fn_        = "#e0b870",  -- sandstone — functions, methods
   string_    = "#e8c87a",  -- amber gold — strings
   string2    = "#d4b460",  -- deeper amber — string variants
   type_      = "#b8c4a8",  -- sage — types, structs, interfaces
@@ -28,7 +28,7 @@ M.colors = {
   comment_   = "#6a5e50",  -- dark warm gray — comments
 
   -- UI accents derived from the syntax palette
-  accent     = "#c8aa80",  -- sandstone — primary UI accent
+  accent     = "#e0b870",  -- sandstone — primary UI accent
   accent2    = "#b8c4a8",  -- sage — secondary accent
   selection  = "#2d2d2d",
   cursorline = "#1e1c1a",
@@ -41,14 +41,14 @@ M.colors = {
   error_     = "#c4605a",  -- crimson
   warn       = "#e8c87a",  -- amber
   info       = "#b8c4a8",  -- sage
-  hint       = "#c8aa80",  -- sandstone
+  hint       = "#e0b870",  -- sandstone
   ok         = "#a0b890",  -- muted green
 
   -- Git
   git_add    = "#a0b890",
-  git_change = "#c8aa80",
+  git_change = "#e0b870",
   git_delete = "#c4605a",
-  git_text   = "#c8aa80",
+  git_text   = "#e0b870",
 
   -- Terminal
   term = {

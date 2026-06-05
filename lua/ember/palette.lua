@@ -18,11 +18,11 @@ M.colors = {
 
   -- Syntax — Ember palette
   keyword    = "#c4605a",  -- crimson red — keywords, control flow
-  fn_        = "#e0b870",  -- sandstone — functions, methods
+  fn_        = "#c87848",  -- sandstone — functions, methods
   string_    = "#e8c87a",  -- amber gold — strings
   string2    = "#d4b460",  -- deeper amber — string variants
   type_      = "#b8c4a8",  -- sage — types, structs, interfaces
-  const_     = "#d4bc90",  -- wheat — constants
+  const_     = "#c87848",  -- wheat — constants
   number_    = "#e8c87a",  -- same as string (amber)
   operator_  = "#7a6e64",  -- muted — punctuation, operators
   comment_   = "#6a5e50",  -- dark warm gray — comments

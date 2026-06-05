@@ -4,10 +4,10 @@ M.colors = {
   -- Backgrounds — Charcoal Slate
   bg         = "#161616",
   bg1        = "#1c1c1e",
-  bg2        = "#222220",
-  bg3        = "#28281e",
-  bg4        = "#2e2e22",
-  bg5        = "#34342a",
+  bg2        = "#222222",
+  bg3        = "#282828",
+  bg4        = "#2e2e2e",
+  bg5        = "#343434",
 
   -- Foregrounds
   fg         = "#ddd0c0",
@@ -30,7 +30,7 @@ M.colors = {
   -- UI accents derived from the syntax palette
   accent     = "#c8aa80",  -- sandstone — primary UI accent
   accent2    = "#b8c4a8",  -- sage — secondary accent
-  selection  = "#2d2720",
+  selection  = "#2d2d2d",
   cursorline = "#1e1c1a",
   linenr     = "#3e3830",
   linenr_cur = "#7a6e64",

@@ -30,7 +30,7 @@ M.colors = {
   -- UI accents derived from the syntax palette
   accent     = "#c8aa80",  -- sandstone — primary UI accent
   accent2    = "#b8c4a8",  -- sage — secondary accent
-  selection  = "#2a2826",
+  selection  = "#2d2720",
   cursorline = "#1e1c1a",
   linenr     = "#3e3830",
   linenr_cur = "#7a6e64",

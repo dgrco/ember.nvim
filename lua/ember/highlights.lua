@@ -25,7 +25,7 @@ function M.apply(c, opts)
     CursorIM        = { fg = c.bg,        bg = c.fg },
     CursorLine      = { bg = c.cursorline },
     CursorColumn    = { bg = c.cursorline },
-    CursorLineNr    = { fg = c.linenr_cur, bold = true },
+    CursorLineNr    = { fg = c.linenr_cur, bg = c.cursorline, bold = true },
     CursorLineFold  = { fg = c.linenr_cur },
     CursorLineSign  = { bg = c.cursorline },
 
